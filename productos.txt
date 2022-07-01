@@ -1,0 +1,23 @@
+[
+	{
+		"name":"Buzo Adidas negro",
+ 		"price": 13999,
+  		"url":"/BuzoAdidasNegro.jpg" 
+  		"id": 1
+  	},
+
+  	{
+  		"name":"Remera Puma",
+  		"price": 4499,
+  		"url":"/RemeraPuma.jpg" 
+  		"id":2
+  	},
+
+  	{
+  		"name":"Zapatillas Adidas Coreracer",
+  	 	"price": 9999,
+  	 	"url":"/ZapatillasAdidasCoreracer.jpg"
+  	 	"id":3
+  	} 
+
+]
